@@ -1,5 +1,5 @@
 %Matching sub lists
-%Note that `accept([0, 1, 0, 0]).` will be proved false.
+%Note that `accept([0, 1, 0, 0]).` will be proven false.
 %%%%%%Output (in SWI Prolog)%%%%%%%%
 %%?- accept([1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0]).
 %%true.
