@@ -16,8 +16,8 @@ accept(List) :-
 	!.
 
 accept(List) :- 
-	append(_, [0, 1|Rest], List),
+	append(_, [0, 1|_Rest], List),
 	!,
 	fail.
 	
-accept(List):-!.
+accept(_List):-!.
