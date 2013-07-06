@@ -4,6 +4,7 @@
  
 **2. (Minimum cost path of a graph)**
  Given the non-directed graph:
+ 
 	1| 2, 4
 	
 	2| 3
