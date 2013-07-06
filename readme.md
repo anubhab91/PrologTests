@@ -1,4 +1,4 @@
-**1. [Matching sub lists](https://github.com/anubhab91/PrologTests/blob/master/1%20(Matching%20sub%20lists).pl)**
+**1. [Matching sub lists](https://github.com/anubhab91/PrologTests/blob/master/1%20Matching%20sub%20lists.pl)**
  Given a list containing only 0 and 1, to find out whether each occurrence of [0, 1] is followed (not necessarily immediately) by an occurrence of [1, 0, 0]. 
 
  
@@ -16,5 +16,5 @@
 Task is to find out the least cost path from node 1 to node 6. 
 
 
-**3. [Formatting a Prolog Code](https://github.com/anubhab91/PrologTests/blob/master/3%20(Formatting%20a%20Prolog%20Code).pl)**
+**3. [Formatting a Prolog Code](https://github.com/anubhab91/PrologTests/blob/master/3%20Formatting%20a%20Prolog%20Code.pl)**
  Given a prolog code in an external file, to show it with proper formatting.
