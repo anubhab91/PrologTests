@@ -20,4 +20,4 @@ accept(List) :-
 	!,
 	fail.
 	
-accept(_List):-!.
+accept(_List).
