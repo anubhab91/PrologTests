@@ -2,7 +2,7 @@
  Given a list containing only 0 and 1, to find out whether each occurrence of [0, 1] is followed (not necessarily immediately) by an occurrence of [1, 0, 0]. 
 
  
-**2. [Minimum cost path of a graph](https://github.com/anubhab91/PrologTests/blob/master/2%20(Minimum%20cost%20path%20of%20a%20graph).pl)**
+**2. [Minimum cost path of a graph](https://github.com/anubhab91/PrologTests/blob/master/2%20Minimum%20cost%20path%20of%20a%20graph.pl)**
  Given the non-directed graph:
  
 	1| 2, 4
